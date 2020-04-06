@@ -1,8 +1,8 @@
 # Asymmetric Layout
 
-  - Laptop
+  ### Laptop
 ![CSS - Asymmetric Layout](preview.jpg)
-  - Desktop
+  ### Desktop
 ![CSS - Asymmetric Layout](preview2.jpg)
-  - Mobile
+  ### Mobile
 ![CSS - Asymmetric Layout](preview3.jpg)
